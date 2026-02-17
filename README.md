@@ -21,8 +21,8 @@ This application allows users to:
 ### Frontend
 - Next.js 16.x
 - React 18.x
-- TypeScript
-- React Flow
+- TypeScript 5.x
+- React Flow 11.11.x
 
 ### Backend
 - Node.js 22.x
